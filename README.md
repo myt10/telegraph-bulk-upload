@@ -15,19 +15,22 @@
 
 ## 本子放在哪
 
-![image-20230410032531366](C:\Users\myt10\AppData\Roaming\Typora\typora-user-images\image-20230410032531366.png)
+![image-20230410032531366](D:\telegraph批量上传脚本\telegraph-bulk-upload\pics\image-20230410032531366.png)
 
 ​	举个例子就是放在项目下面的 `./input/`文件夹下
 
 ## 发布结果在哪里
 
-![image-20230410032623987](C:\Users\myt10\AppData\Roaming\Typora\typora-user-images\image-20230410032623987.png)
+![image-20230410032623987](D:\telegraph批量上传脚本\telegraph-bulk-upload\pics\image-20230410032623987.png)
 
 ## 脚本怎么用（两种方法）？
 
-1. 将本子放在**input**文件夹下，然后这个页面下输入cmd，并回车，在命令行输入`python wrap.py`![image-20230410032827686](C:\Users\myt10\AppData\Roaming\Typora\typora-user-images\image-20230410032827686.png)
+1. 将本子放在**input**文件夹下，然后这个页面下输入cmd，并回车，在命令行输入`python wrap.py`
+
+![image-20230410032827686](D:\telegraph批量上传脚本\telegraph-bulk-upload\pics\image-20230410032827686.png)
+
 2. 输入jupyter notebook，然后在**批量上传.ipynb**中运行
 
-![image-20230410033012507](C:\Users\myt10\AppData\Roaming\Typora\typora-user-images\image-20230410033012507.png)
+![image-20230410033012507](D:\telegraph批量上传脚本\telegraph-bulk-upload\pics\image-20230410033012507.png)
 
-![image-20230410033258211](C:\Users\myt10\AppData\Roaming\Typora\typora-user-images\image-20230410033258211.png)
+![image-20230410033258211](D:\telegraph批量上传脚本\telegraph-bulk-upload\pics\image-20230410033258211.png)
